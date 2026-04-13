@@ -20,7 +20,7 @@ Full-Stack Developer specialized in **scalable backend systems** and **modern Ty
 
 ## 🚀 Projects
 
-<a href="https://github.com/seu-usuario/kleros">
+<a href="https://www.kleros.app">
   <img src="https://img.shields.io/badge/Kleros-SaaS%20para%20Igrejas-2c5364?style=for-the-badge" />
 </a><br/>
 💡 SaaS platform for church management and operations  
@@ -28,7 +28,7 @@ Full-Stack Developer specialized in **scalable backend systems** and **modern Ty
 
 <br/><br/>
 
-<a href="https://github.com/seu-usuario/duma">
+<a href="https://www.dumacenter.com">
   <img src="https://img.shields.io/badge/Duma-Aprendizagem%20Acelerada-0f2027?style=for-the-badge" />
 </a><br/>
 🚀 Accelerated learning platform with integrated ecosystem  
@@ -36,7 +36,7 @@ Full-Stack Developer specialized in **scalable backend systems** and **modern Ty
 
 <br/><br/>
 
-<a href="https://github.com/seu-usuario/globus-dei">
+<a href="https://www.globusdei.org">
   <img src="https://img.shields.io/badge/Globus%20Dei-Rede%20Global%20Crist%C3%A3-2c5364?style=for-the-badge" />
 </a><br/>
 🌍 Global Christian network platform focused on connection and content  
