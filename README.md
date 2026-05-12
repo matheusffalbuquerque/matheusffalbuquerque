@@ -28,7 +28,7 @@ Full-Stack Developer specialized in **scalable backend systems** and **modern Ty
 
 <br/><br/>
 
-<a href="https://www.dumacenter.com">
+<a href="https://www.dumaway.com">
   <img src="https://img.shields.io/badge/Duma-Aprendizagem%20Acelerada-0f2027?style=for-the-badge" />
 </a><br/>
 🚀 Accelerated learning platform with integrated ecosystem  
